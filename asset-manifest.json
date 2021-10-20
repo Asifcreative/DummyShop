@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DummyShop/static/css/main.c1a7ef29.chunk.css",
-    "main.js": "/DummyShop/static/js/main.f0cf4334.chunk.js",
-    "main.js.map": "/DummyShop/static/js/main.f0cf4334.chunk.js.map",
+    "main.js": "/DummyShop/static/js/main.aff8c67a.chunk.js",
+    "main.js.map": "/DummyShop/static/js/main.aff8c67a.chunk.js.map",
     "runtime-main.js": "/DummyShop/static/js/runtime-main.313a7f4d.js",
     "runtime-main.js.map": "/DummyShop/static/js/runtime-main.313a7f4d.js.map",
     "static/js/2.09e7bbd6.chunk.js": "/DummyShop/static/js/2.09e7bbd6.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.313a7f4d.js",
     "static/js/2.09e7bbd6.chunk.js",
     "static/css/main.c1a7ef29.chunk.css",
-    "static/js/main.f0cf4334.chunk.js"
+    "static/js/main.aff8c67a.chunk.js"
   ]
 }
